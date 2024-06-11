@@ -5,3 +5,5 @@ test.http
 docker-compose.override.yml
 
 .DS_Store
+
+/docker/go/log/
